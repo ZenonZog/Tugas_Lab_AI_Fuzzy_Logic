@@ -1,0 +1,15 @@
+Analisis Kepuasan Pelanggan Menggunakan Fuzzy Logic
+
+Deskripsi:
+Proyek ini menggunakan pendekatan logika fuzzy untuk memprediksi tingkat kepuasan pelanggan berdasarkan dua variabel utama:
+1. Kecepatan layanan (Service_Speed)
+2. Kualitas produk (Product_Quality)
+
+Metode fuzzy yang digunakan mencakup:
+- Definisi membership function untuk variabel input dan output.
+- Penerapan aturan (rules) fuzzy berbasis IF–THEN.
+- Proses inferensi dan defuzzifikasi untuk menghasilkan nilai prediksi kepuasan.
+
+Hasil:
+Sistem menghasilkan nilai Predicted_Satisfaction untuk setiap data pelanggan.
+Plot distribusi digunakan untuk menggambarkan sebaran tingkat kepuasan yang diperoleh.
